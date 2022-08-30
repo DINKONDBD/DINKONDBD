@@ -1,4 +1,4 @@
-# Welcome
+# if(Description.Checked){Welcome();} 
 
 ***
 
@@ -10,10 +10,10 @@
 ***
 
 # What Programming languages do I use:
-* JS
-* TS (Angular)
-* C#
-* C (Arduino)
+* console.log("JS")
+* console.log("TS") (Angular)
+* Console.WriteLine("C#")
+* printf("C")  (Arduino)
 
 ***
 # Also,check my site!

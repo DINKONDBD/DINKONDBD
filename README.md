@@ -10,10 +10,10 @@
 ***
 
 # What Programming languages do I use:
-* console.log("JS")
-* console.log("TS") (Angular)
-* Console.WriteLine("C#")
-* printf("C")  (Arduino)
+* ``` console.log("JS") ```
+* ``` console.log("TS") ``` (Angular)
+* ``` Console.WriteLine("C#") ```
+* ```printf("C") ``` (Arduino)
 
 ***
 # Also,check my site!

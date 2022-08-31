@@ -14,6 +14,7 @@
 * ``` console.log("TS") ``` (Angular)
 * ``` Console.WriteLine("C#") ```
 * ```printf("C") ``` (Arduino)
+* ```System.out.println("Java")```
 
 ***
 # Also,check my site!
